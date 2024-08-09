@@ -6,7 +6,7 @@ Creating new tickets for bugs or feature requests is much appreciated 🙂 Feel 
 
 ## Getting Started
 
-Head over to [our website](https://dodisturb.app/) to never miss an assignment again.
+Head over to [our website](https://dodisturb.app/) and never miss an assignment again.
 
 <!-- ## Features
 
